@@ -12,12 +12,12 @@ npm install
 ```
 
 ``` bash
-# localhost:8080 de uygulamanızı test edbilirsiniz
+# localhost:8080 de uygulamayı bu komutla test edbilirsiniz
 npm run dev
 ```
 
 ``` bash
-# ürününüzü dağıtıma hazırlar ve css leri ve js leri küçültür
+# ürünü dağıtıma hazırlar ve css leri ve js leri küçültür
 npm run build
 ```
 
