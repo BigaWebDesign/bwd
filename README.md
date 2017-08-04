@@ -2,6 +2,8 @@
 
 > bigawebdesign
 
+> yeni biga web design sitesi
+
 ![bwd](https://gitlab.com/uploads/-/system/user/avatar/1511592/avatar.png)
 
 ## Build Setup
