@@ -11,32 +11,32 @@
 npm install
 ```
 
-```
+``` bash
 # localhost:8080 de uygulamanızı test edbilirsiniz
 npm run dev
 ```
 
-```
+``` bash
 # ürününüzü dağıtıma hazırlar ve css leri ve js leri küçültür
 npm run build
 ```
 
-```
+``` bash
 # prodüksiyon
 npmrun build --report
 ```
 
-```
+``` bash
 # unit testlerini çalıştırmak için
 npm run unit
 ```
 
-```
+``` bash
 # e2e testini çalıştırmak için
 npm run e2e
 ```
 
-```
+``` bash
 # testleri çalıştırmak için
 npm test
 ```
