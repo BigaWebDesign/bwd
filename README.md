@@ -7,25 +7,37 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# bağımlılıkları bu komutla kurabilirsiniz
 npm install
+```
 
-# serve with hot reload at localhost:8080
+```
+# localhost:8080 de uygulamanızı test edbilirsiniz
 npm run dev
+```
 
-# build for production with minification
+```
+# ürününüzü dağıtıma hazırlar ve css leri ve js leri küçültür
 npm run build
+```
 
-# build for production and view the bundle analyzer report
-npm run build --report
+```
+# prodüksiyon
+npmrun build --report
+```
 
-# run unit tests
+```
+# unit testlerini çalıştırmak için
 npm run unit
+```
 
-# run e2e tests
+```
+# e2e testini çalıştırmak için
 npm run e2e
+```
 
-# run all tests
+```
+# testleri çalıştırmak için
 npm test
 ```
 
